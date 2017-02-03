@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+
+.top-margin{
+	margin-top:50px;
+}
+/*adjust view box-restyle*/
+#viewer_iframe{
+	border:2px solid black;
+	resize:both;
+	width:100%;
+}
